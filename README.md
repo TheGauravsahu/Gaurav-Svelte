@@ -1,38 +1,66 @@
-# create-svelte
+# Gaurav Sahu's Portfolio
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/main/packages/create-svelte).
+Welcome to my portfolio! I am **Gaurav Sahu**, a passionate web developer from Bihar. This portfolio showcases my projects, skills, and journey in web development.
 
-## Creating a project
+## Table of Contents
 
-If you're seeing this, you've probably already done this step. Congrats!
+- [About Me](#about-me)
+- [Projects](#projects)
+- [Skills](#skills)
+- [Technologies](#technologies)
+- [Contact](#contact)
 
-```bash
-# create a new project in the current directory
-npm create svelte@latest
+## About Me
 
-# create a new project in my-app
-npm create svelte@latest my-app
-```
+Hello! I’m a web developer with a keen interest in creating beautiful and functional websites that enhance user experience and deliver value to clients. My journey into web development began with a curiosity for how things work, and it has grown into a commitment to continuous learning and improvement.
 
-## Developing
+When I'm not coding, you can find me reading tech blogs, contributing to open-source projects, or experimenting with new design concepts. I believe in the power of collaboration and enjoy working with others to bring ideas to life.
 
-Once you've created a project and installed dependencies with `npm install` (or `pnpm install` or `yarn`), start a development server:
+## Projects
 
-```bash
-npm run dev
+Here are some of the notable projects I have worked on:
 
-# or start the server and open the app in a new browser tab
-npm run dev -- --open
-```
+### 1. Gaurav Blogs
 
-## Building
+- **Description**: A blog web application that uses the GitHub API as a CMS, built with SvelteKit.
+- **Features**:
+  - Dynamic content fetching from GitHub.
+  - Responsive design and user-friendly interface.
+  - Easy to manage and update blog posts.
 
-To create a production version of your app:
+### 2. Svelte Store
 
-```bash
-npm run build
-```
+- **Description**: An e-commerce website built with SvelteKit and Firebase, featuring an admin dashboard.
+- **Features**:
+  - User authentication and real-time data handling.
+  - Product management and order tracking.
+  - Intuitive UI for a seamless shopping experience.
 
-You can preview the production build with `npm run preview`.
+### 3. Gaurice Service Booking Platform
 
-> To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+- **Description**: A service booking platform built using Next.js.
+- **Features**:
+  - User-friendly interface for booking services.
+  - Admin panel for managing bookings and services.
+  - Secure authentication and user management.
+
+## Skills
+
+- **Languages**: JavaScript, TypeScript, HTML, CSS
+- **Frameworks**: Svelte, SvelteKit, Next.js, Nuxt js, React.js
+- **Databases**: Firebase, MongoDB
+- **Tools**: Git, GitHub, VS Code
+
+## Technologies
+
+- **Front-end**: Svelte, SvelteKit, Next.js, Nuxt Js, Tailwind CSS
+- **Back-end**: Node.js, Firebase, Django, Django Rest Framework
+- **Deployment**: Vercel
+
+## Contact
+
+Feel free to reach out to me for collaboration, inquiries, or just to say hello!
+
+- **GitHub**: [github.com/TheGauravSahu](https://github.com/TheGauravsahu)
+
+Thank you for visiting my portfolio!

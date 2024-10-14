@@ -11,7 +11,7 @@ export async function GET() {
 			imageUrl: '/gauravblogs.png',
 			techStack: ['SvelteKit', 'Tailwind CSS', 'GitHub API', 'Vercel'],
 			githubLink: 'https://github.com/TheGauravsahu/Gaurav-Blogs',
-			liveDemo: 'https://jobhub.com'
+			liveDemo: 'https://gauravblogs.vercel.app/'
 		},
 		{
 			id: 2,
